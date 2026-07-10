@@ -107,26 +107,6 @@ Built a real-time commodity tracking project for Gold and Silver prices using **
 
 ---
 
-## Education
-
-| Degree | Institution | Years |
-|---|---|---|
-| B.Tech, Computer Science & Engineering (CGPA: 8.97) | Charotar University of Science and Technology (CHARUSAT) | 2023 – 2027 |
-| Senior Secondary (XII), CBSE — 70.2% | Altius Fortius High School, Nadiad | 2023 |
-| Secondary (X), CBSE — 75.16% | Euro School Foundation, Nadiad | 2021 |
-
----
-
-## Certifications & Courses
-
-- **NPTEL** — Data Structures and Algorithms (Jul–Oct 2024): Scored 71%
-- **NPTEL** — Design and Analysis of Algorithms (Jan–Mar 2025): Scored 61%
-- **GeeksforGeeks** — Certificate in Python for Course Completion
-- **GUVI & HCL Webinar** — "Building a Career in Full Stack Web Development" (Dec 2024)
-- **GUVI & HCL Webinar** — "Master Digital Marketing using Google Analytics" (Dec 2024)
-
----
-
 ## Connect
 
 📫 Email: tejaspatel22505@gmail.com
