@@ -20,17 +20,34 @@ I build **AI-powered web applications, full-stack platforms, and multi-agent sys
 
 ## Tech Stack
 
-**Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL
+**Languages**
 
-**Frontend:** React, Vite, Tailwind CSS, Zustand, TanStack Query, Recharts, Chart.js, React Hook Form, Zod
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark)
+`SQL`
 
-**Backend:** Node.js, Express, FastAPI, Flask, Flask-SocketIO
+**Frontend**
 
-**Database:** Supabase (PostgreSQL + RLS), SQLite, IndexedDB
+![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)
+`Zustand` `TanStack Query` `Recharts` `Chart.js` `React Hook Form` `Zod`
 
-**AI / ML:** Groq API (Llama 3 / 3.3), OpenRouter (Gemini 2.0/1.5, Llama 3.1), OpenAI Whisper, Silero VAD, Random Forest (scikit-learn), Streamlit
+**Backend**
 
-**Tools & Platforms:** Docker, Playwright, Git & GitHub, Vercel, Render, PWA / Service Workers
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark)
+`Flask-SocketIO`
+
+**Database**
+
+![Database](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,supabase&theme=dark)
+`MongoDB Atlas` `IndexedDB`
+
+**AI / ML**
+
+`Groq API (Llama 3 / 3.3)` `OpenRouter (Gemini 2.0/1.5, Llama 3.1)` `OpenAI Whisper` `Silero VAD` `Random Forest (scikit-learn)` `Streamlit`
+
+**Tools & Platforms**
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,vercel&theme=dark)
+`Render` `Playwright` `PWA / Service Workers`
 
 ---
 
