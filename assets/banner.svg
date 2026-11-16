@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
+    </linearGradient>
+    <!-- Wave path bottom -->
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" />
+
+  <!-- Wave shape at bottom -->
+  <path d="M0,140 C150,180 300,100 450,140 C600,180 750,110 900,140 L900,200 L0,200 Z" fill="#0d1117" opacity="0.18"/>
+  <path d="M0,160 C120,140 250,175 400,158 C550,141 700,170 900,155 L900,200 L0,200 Z" fill="#0d1117" opacity="0.25"/>
+
+  <!-- Name -->
+  <text x="450" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">Tejas Patel</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#e2e8f0" text-anchor="middle" letter-spacing="0.5">Software &amp; Applied AI Systems Engineer</text>
+
+  <!-- Decorative dot accents -->
+  <circle cx="60" cy="50" r="22" fill="#ffffff" opacity="0.07"/>
+  <circle cx="840" cy="40" r="30" fill="#ffffff" opacity="0.07"/>
+  <circle cx="820" cy="150" r="14" fill="#f59e0b" opacity="0.18"/>
+  <circle cx="80" cy="160" r="10" fill="#f59e0b" opacity="0.15"/>
+</svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Tejas%20Patel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Applied%20AI%20Systems%20Engineer&descAlignY=58&descColor=e2e8f0" width="100%" />
+<!-- Header banner (self-hosted SVG — no external service dependency) -->
+<img src="https://raw.githubusercontent.com/tejaspatel2255/tejaspatel2255/main/assets/banner.svg" alt="Tejas Patel — Software &amp; Applied AI Systems Engineer" width="100%" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=620&lines=Building+full-stack+products+%26+applied+AI+systems;React+%7C+Next.js+%7C+FastAPI+%7C+Flutter;Hackathon+builder+%E2%80%94+open+to+roles+%26+contracts" alt="Typing animation" />
@@ -18,7 +18,6 @@
 [![Resume](https://img.shields.io/badge/Resume-a855f7?style=flat-square&logo=googledocs&logoColor=white)](https://tejas-patel-portfolio-weld.vercel.app/resume.pdf)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tejaspatel22505@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pateltejasd)
-[![X](https://img.shields.io/badge/@pateltejasd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pateltejasd)
 
 </div>
 
@@ -203,7 +202,12 @@ Personal finance dashboard with AI-powered insights and a multi-model fallback c
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://tejaspatel2255.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tejaspatel22505@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pateltejasd)
-[![X](https://img.shields.io/badge/@pateltejasd-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pateltejasd)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tejaspatel2255/tejaspatel2255/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tejaspatel2255/tejaspatel2255/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tejaspatel2255/tejaspatel2255/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer" width="100%" />
 
